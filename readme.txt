@@ -1,6 +1,6 @@
 === PRyC WP: Add timestamp to style.css link ===
 Contributors: PRyCpl
-Tags: WordPress, Languages, lang
+Tags: WordPress, Languages, style.css, timestamp, style
 Requires at least: 3.0.1
 Tested up to: 4.0.1
 Stable tag: trunk
